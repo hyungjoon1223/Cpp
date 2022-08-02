@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Projects\cpp\test0622\test0622\Main.cpp(112,17): warning C4473: 'fscanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Projects\cpp\test0622\test0622\Main.cpp(112,17): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Projects\cpp\test0622\test0622\Main.cpp(112,17): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Projects\cpp\test0622\test0622\Main.cpp(112,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+  test0622.vcxproj -> C:\Projects\cpp\test0622\x64\Debug\test0622.exe

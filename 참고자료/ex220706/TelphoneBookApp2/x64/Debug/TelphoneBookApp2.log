@@ -1,0 +1,49 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(TelphoneBookApp.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Professor.cpp
+C:\Projects\ex220706\TelphoneBookApp2\Professor.cpp(15,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\ex220706\TelphoneBookApp2\Professor.cpp(19,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\ex220706\TelphoneBookApp2\Professor.cpp(23,28): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Student.cpp
+C:\Projects\ex220706\TelphoneBookApp2\Student.cpp(15,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\ex220706\TelphoneBookApp2\Student.cpp(19,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TelPhoneBook.cpp
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(31,6): error C2039: 'Read': 'Person'의 멤버가 아닙니다.
+C:\Projects\ex220706\TelphoneBookApp2\Person.h(5): message : 'Person' 선언을 참조하십시오.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36,6): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36,6): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36,7): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36,7): error C2146: 구문 오류: ';'이(가) 'read' 식별자 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(38,6): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(38,6): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(38,7): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(38,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(38,3): error C2086: 'int ifs': 재정의
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36): message : 'ifs' 선언을 참조하십시오.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(38,7): error C2146: 구문 오류: ';'이(가) 'read' 식별자 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(40,6): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(40,6): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(40,7): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(40,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(40,3): error C2086: 'int ifs': 재정의
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36): message : 'ifs' 선언을 참조하십시오.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(40,7): error C2146: 구문 오류: ';'이(가) 'read' 식별자 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(42,6): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(42,6): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(42,7): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(42,11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(42,3): error C2086: 'int ifs': 재정의
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(36): message : 'ifs' 선언을 참조하십시오.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(42,7): error C2146: 구문 오류: ';'이(가) 'read' 식별자 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(45,12): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(45,12): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(45,13): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(45,22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(45,13): error C2146: 구문 오류: ';'이(가) 'push_back' 식별자 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(46,2): error C2059: 구문 오류: '}'
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(46,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(47,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(47,1): error C2059: 구문 오류: '}'
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(49,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp2\TelPhoneBook.cpp(49,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  코드를 생성하고 있습니다...

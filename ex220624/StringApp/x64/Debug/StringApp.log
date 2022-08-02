@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  String.cpp
+C:\Projects\C++\ex220624\StringApp\String.cpp(5,20): warning C4267: '=': 'size_t'에서 'String::Size_type'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++\ex220624\StringApp\String.cpp(18,34): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++\ex220624\StringApp\String.cpp(30,20): warning C4267: '=': 'size_t'에서 'String::Size_type'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  StringApp.vcxproj -> C:\Projects\C++\ex220624\x64\Debug\StringApp.exe

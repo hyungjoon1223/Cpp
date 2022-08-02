@@ -1,0 +1,7 @@
+#pragma once
+class Util
+{
+public:
+	static void Menu();
+	static void SubMenu();
+};

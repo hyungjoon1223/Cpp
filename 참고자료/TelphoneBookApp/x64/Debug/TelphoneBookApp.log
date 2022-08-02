@@ -1,0 +1,22 @@
+﻿  Main.cpp
+  TelPhoneBook.cpp
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(26,5): error C2065: 'iter': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(38,9): error C2065: 'iter': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(41,6): error C2065: 'iter': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,7): error C2065: 'vector': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,14): error C2275: 'Person': 형식 대신 식이 필요합니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,23): error C2039: 'size_type': '`global namespace''의 멤버가 아닙니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,33): error C2065: 'size_type': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,33): error C2146: 구문 오류: ';'이(가) 'i' 식별자 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,35): error C2143: 구문 오류: ';'이(가) '=' 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,35): error C2143: 구문 오류: ')'이(가) '=' 앞에 없습니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,35): error C2059: 구문 오류: '='
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,40): error C2065: 'i': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,64): error C2065: 'i': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(67,65): error C2059: 구문 오류: ')'
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(69,18): error C2065: 'i': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(69,28): error C2059: 구문 오류: ';'
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(70,13): error C2065: 'i': 선언되지 않은 식별자입니다.
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(72,1): error C2059: 구문 오류: '}'
+C:\Projects\ex220706\TelphoneBookApp\TelPhoneBook.cpp(72,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  코드를 생성하고 있습니다...
