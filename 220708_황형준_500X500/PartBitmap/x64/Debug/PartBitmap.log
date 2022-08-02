@@ -1,0 +1,129 @@
+﻿  function.cpp
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(10,1): error C2011: 'Point': 'struct' 형식 재정의
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(20,1): error C2011: 'BITMAPFILEHEADER': 'struct' 형식 재정의
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(18): message : 'BITMAPFILEHEADER' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(28,1): error C2011: 'BITMAPINFOHEADER': 'struct' 형식 재정의
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(26): message : 'BITMAPINFOHEADER' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(42,1): error C2011: 'RGBQUAD': 'struct' 형식 재정의
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(40): message : 'RGBQUAD' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(50,1): error C2011: 'Bitmap': 'class' 형식 재정의
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(289,1): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(288,8): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(290,29): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(291,20): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(293,28): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(298,28): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(300,32): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(325,1): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(324,8): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(326,29): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(327,20): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(329,28): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(333,28): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(335,32): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(361,8): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(362,8): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(368,25): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(368,37): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(369,26): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(369,38): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(370,27): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(370,39): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(370,51): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(370,63): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(371,29): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(371,42): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(371,55): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(371,68): error C2027: 정의되지 않은 형식 'Point'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(8): message : 'Point' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(374,12): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(376,12): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.cpp(378,8): error C2027: 정의되지 않은 형식 'Bitmap'을(를) 사용했습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\function.h(48): message : 'Bitmap' 선언을 참조하십시오.
+  Main.cpp
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Util.h(5,20): error C2533: 'Util': 생성자에서 반환 형식을 사용할 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(5,5): error C2065: 'Bitmap': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(5,12): error C2146: 구문 오류: ';'이(가) 'D' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(5,12): error C3861: 'D': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(6,5): error C2065: 'Bitmap': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(6,12): error C2146: 구문 오류: ';'이(가) 'C' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(6,12): error C3861: 'C': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(7,5): error C2065: 'Bitmap': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(7,12): error C2146: 구문 오류: ';'이(가) 'A' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(7,12): error C3861: 'A': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(8,5): error C2065: 'Bitmap': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(8,12): error C2146: 구문 오류: ';'이(가) 'B' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(8,12): error C3861: 'B': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(9,5): error C2065: 'Bitmap': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(9,12): error C2146: 구문 오류: ';'이(가) 'P1' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(9,12): error C3861: 'P1': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(10,5): error C2065: 'Bitmap': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(10,12): error C2146: 구문 오류: ';'이(가) 'P2' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(10,12): error C3861: 'P2': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(18,13): error C2100: 간접 참조가 잘못되었습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(24,13): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(24,20): error C2146: 구문 오류: ';'이(가) 'Dil' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(24,20): error C2065: 'Dil': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(25,13): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(25,20): error C2146: 구문 오류: ';'이(가) 'typebmp' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(25,20): error C2065: 'typebmp': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(26,22): error C2065: 'D': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(26,13): error C3861: 'Dilation': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(27,13): error C2065: 'Dil': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(27,24): error C3861: 'to_string': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(28,13): error C2065: 'Dil': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(28,24): error C2065: 'typebmp': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(29,13): error C2065: 'D': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(29,29): error C2065: 'Dil': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(37,13): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(37,20): error C2146: 구문 오류: ';'이(가) 'Ero' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(37,20): error C2065: 'Ero': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(38,13): error C2065: 'string': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(38,20): error C2146: 구문 오류: ';'이(가) 'typebmp' 식별자 앞에 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(38,20): error C2065: 'typebmp': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(39,21): error C2065: 'C': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(39,13): error C3861: 'Erosion': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(40,13): error C2065: 'Ero': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(40,24): error C3861: 'to_string': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(41,13): error C2065: 'Ero': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(41,24): error C2065: 'typebmp': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(42,13): error C2065: 'C': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(42,29): error C2065: 'Ero': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(49,13): error C2065: 'B': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(55,30): error C2065: 'P1': 선언되지 않은 식별자입니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(55,34): error C3861: 'Point': 식별자를 찾을 수 없습니다.
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Main.cpp(55,13): error C3861: 'PartialSaveImage': 식별자를 찾을 수 없습니다.
+  Util.cpp
+C:\Projects\cpp\220708_황형준_500X500\PartBitmap\Util.h(5,20): error C2533: 'Util': 생성자에서 반환 형식을 사용할 수 없습니다.
+  코드를 생성하고 있습니다...
